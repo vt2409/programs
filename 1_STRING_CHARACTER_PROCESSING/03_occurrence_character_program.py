@@ -1,3 +1,10 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: First Non-Repeating Character - Find and index first unique char
+# Difficulty: Easy | Frequency: ⭐⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
+
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: STRING & CHARACTER PROCESSING                          ║
 # ║  PURPOSE: Character occurrence analysis and substring operations  ║

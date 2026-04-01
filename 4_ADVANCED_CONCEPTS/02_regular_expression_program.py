@@ -1,3 +1,9 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: Regular Expressions - Pattern matching and text manipulation
+# Difficulty: Medium | Frequency: ⭐⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: ADVANCED PYTHON CONCEPTS                               ║

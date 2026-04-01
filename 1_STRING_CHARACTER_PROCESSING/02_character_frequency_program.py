@@ -1,3 +1,10 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: Character Frequency - Count and analyze character frequencies
+# Difficulty: Easy | Frequency: ⭐⭐⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
+
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: STRING & CHARACTER PROCESSING                          ║
 # ║  PURPOSE: Count character frequency in strings                    ║

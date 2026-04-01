@@ -1,3 +1,10 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: Word Embeddings - Find similar words using Word2Vec
+# Difficulty: Hard | Frequency: ⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
+
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: NATURAL LANGUAGE PROCESSING (NLP)                      ║
 # ║  PURPOSE: Word embeddings using Google's pretrained Word2Vec      ║

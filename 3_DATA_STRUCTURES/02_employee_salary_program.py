@@ -1,3 +1,10 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: Filter and Sort Data - Employee salary filtering and sorting
+# Difficulty: Easy | Frequency: ⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
+
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: DATA STRUCTURES & COLLECTIONS                          ║
 # ║  PURPOSE: Filter and sort employee data                           ║

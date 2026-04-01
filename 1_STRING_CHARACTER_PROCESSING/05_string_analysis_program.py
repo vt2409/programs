@@ -1,3 +1,10 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: String Analysis - Multiple character/string algorithms
+# Difficulty: Easy | Frequency: ⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
+
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: STRING & CHARACTER PROCESSING                          ║
 # ║  PURPOSE: Multiple character/string analysis algorithms           ║

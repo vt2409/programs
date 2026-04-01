@@ -1,3 +1,10 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: Natural Language Processing - spaCy NER and POS tagging
+# Difficulty: Hard | Frequency: ⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
+
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: NATURAL LANGUAGE PROCESSING (NLP)                      ║
 # ║  PURPOSE: Advanced text analysis using spaCy library              ║

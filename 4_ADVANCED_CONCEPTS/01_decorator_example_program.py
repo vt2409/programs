@@ -1,3 +1,9 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: Python Decorators - Function wrapping and modification
+# Difficulty: Medium | Frequency: ⭐⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: ADVANCED PYTHON CONCEPTS                               ║

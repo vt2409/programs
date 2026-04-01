@@ -1,3 +1,10 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: String Algorithms Bundle - Palindrome, flatten list, unique chars
+# Difficulty: Easy | Frequency: ⭐⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
+
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: TEXT ANALYSIS & WORD PROCESSING                        ║
 # ║  PURPOSE: Collection of fundamental string algorithms             ║

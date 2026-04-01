@@ -1,3 +1,10 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: Top K Frequent Words - Extract most common words from text
+# Difficulty: Medium | Frequency: ⭐⭐⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
+
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: TEXT ANALYSIS & WORD PROCESSING                        ║
 # ║  PURPOSE: Extract and rank most frequent words from reviews       ║

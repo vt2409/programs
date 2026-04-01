@@ -1,8 +1,15 @@
+# ═══════════════════════════════════════════════════════════════
+# 🏢 INTERVIEW QUESTION
+# Company: [COMPANY_NAME]
+# Problem: Collections Module - Counter and defaultdict utilities
+# Difficulty: Easy | Frequency: ⭐⭐⭐
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: DATA STRUCTURES & COLLECTIONS                          ║
 # ║  PURPOSE: Demonstrate Python Collections module features          ║
 # ║  INCLUDES: Counter (frequency), defaultdict (auto-create keys)    ║
+# ╚═══════════════════════════════════════════════════════════════╝
 # ╚═══════════════════════════════════════════════════════════════╝
 
 """
