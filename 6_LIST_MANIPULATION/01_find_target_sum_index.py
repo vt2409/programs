@@ -1,4 +1,3 @@
-
 # ═══════════════════════════════════════════════════════════════
 # 🏢 INTERVIEW QUESTION
 # Company: Epsilon
@@ -15,33 +14,35 @@
 sequence = [1, 2, 3, 4, 5]
 target = 9
 
+
 def find_target_sum_index(sequence, target):
     """
     Find two indices whose values sum to target using hash map.
-    
+
     Time Complexity: O(n) - single pass through the list
     Space Complexity: O(n) - hash map stores elements
-    
+
     Args:
         sequence: List of integers
         target: Target sum value
-    
+
     Returns:
         Tuple of (index1, index2) or None if not found
     """
     num_map = {}  # Map: {number -> index}
-    
+
     for i, num in enumerate(sequence):
         complement = target - num
-        
+
         # Check if complement exists in map
         if complement in num_map:
             return (num_map[complement], i)  # Return indices
-        
+
         # Store current number and its index
         num_map[num] = i
-    
+
     return None  # No pair found
+
 
 # Test cases
 result = find_target_sum_index(sequence, target)
@@ -55,6 +56,5 @@ else:
 # Additional test cases
 print("\n--- Additional Tests ---")
 print(find_target_sum_index([2, 7, 11, 15], 9))  # (0, 1) -> 2+7=9
-print(find_target_sum_index([3, 2, 4], 6))       # (1, 2) -> 2+4=6
-print(find_target_sum_index([1, 1, 1], 3))       # None
-
+print(find_target_sum_index([3, 2, 4], 6))  # (1, 2) -> 2+4=6
+print(find_target_sum_index([1, 1, 1], 3))  # None

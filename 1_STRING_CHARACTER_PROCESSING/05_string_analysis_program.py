@@ -48,17 +48,14 @@ Find the longest substring without repeating characters!
 
 """
 string = "abcabcbb"
-original_string = ""
+result = ""
+
+
 for i in range(len(string)):
-    temp_set = set()
-    current_string = ""
-    
-    for j in range(i,len(string)):
-        if string[j] in temp_set:
-            break
-        
-        temp_set.add(string[j])
-        current_string += (string[j])
-        if len(current_string) > len(original_string):
-            original_string = current_string
-print(original_string)
+    for j in range(i+1, len(string)):
+        substring = string[i:j]
+        if len(substring) == len(set(substring)):
+            if len(substring) > len(result):
+                result = substring
+                
+print(f"The longest substring without repeating characters in '{string}' is: {result}")
