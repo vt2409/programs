@@ -1,6 +1,5 @@
 # ═══════════════════════════════════════════════════════════════
 # 🏢 INTERVIEW QUESTION
-# Company: [COMPANY_NAME]
 # Problem: Collections Module - Counter and defaultdict utilities
 # Difficulty: Easy | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════

@@ -1,6 +1,5 @@
 # ═══════════════════════════════════════════════════════════════
 # 🏢 INTERVIEW QUESTION
-# Company: [COMPANY_NAME]
 # Problem: Top K Frequent Words - Extract most common words from text
 # Difficulty: Medium | Frequency: ⭐⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════

@@ -11,8 +11,8 @@
 # ║  COMPLEXITY: O(n) time, O(n) space - OPTIMAL                 ║
 # ╚═════════════════════════════════════════════════════════════╝
 
-sequence = [1, 2, 3, 4, 5]
-target = 9
+sequence = [5,4,2,6,1]
+target = 6
 
 
 def find_target_sum_index(sequence, target):
@@ -57,4 +57,4 @@ else:
 print("\n--- Additional Tests ---")
 print(find_target_sum_index([2, 7, 11, 15], 9))  # (0, 1) -> 2+7=9
 print(find_target_sum_index([3, 2, 4], 6))  # (1, 2) -> 2+4=6
-print(find_target_sum_index([1, 1, 1], 3))  # None
+print(find_target_sum_index([5,4,2,6,1], 6))  # None

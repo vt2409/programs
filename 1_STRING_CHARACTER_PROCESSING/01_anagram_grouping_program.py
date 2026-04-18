@@ -1,6 +1,5 @@
 # ═══════════════════════════════════════════════════════════════
 # 🏢 INTERVIEW QUESTION
-# Company: [COMPANY_NAME]
 # Problem: Group Anagrams - Classify words that are anagrams of each other
 # Difficulty: Medium | Frequency: ⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════

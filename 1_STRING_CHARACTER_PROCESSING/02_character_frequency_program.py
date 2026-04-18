@@ -1,6 +1,5 @@
 # ═══════════════════════════════════════════════════════════════
 # 🏢 INTERVIEW QUESTION
-# Company: [COMPANY_NAME]
 # Problem: Character Frequency - Count and analyze character frequencies
 # Difficulty: Easy | Frequency: ⭐⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════

@@ -1,6 +1,5 @@
 # ═══════════════════════════════════════════════════════════════
 # 🏢 INTERVIEW QUESTION
-# Company: [COMPANY_NAME]
 # Problem: String Algorithms Bundle - Palindrome, flatten list, unique chars
 # Difficulty: Easy | Frequency: ⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════

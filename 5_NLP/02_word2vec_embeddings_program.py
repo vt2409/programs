@@ -1,6 +1,5 @@
 # ═══════════════════════════════════════════════════════════════
 # 🏢 INTERVIEW QUESTION
-# Company: [COMPANY_NAME]
 # Problem: Word Embeddings - Find similar words using Word2Vec
 # Difficulty: Hard | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════

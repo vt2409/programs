@@ -1,6 +1,5 @@
 # ═══════════════════════════════════════════════════════════════
 # 🏢 INTERVIEW QUESTION
-# Company: [COMPANY_NAME]
 # Problem: Natural Language Processing - spaCy NER and POS tagging
 # Difficulty: Hard | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
