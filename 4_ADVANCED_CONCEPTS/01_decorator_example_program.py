@@ -3,6 +3,10 @@
 # Problem: Python Decorators - Function wrapping and modification
 # Difficulty: Medium | Frequency: ⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(1) - Decorator adds constant overhead to function call
+# SPACE COMPLEXITY: O(1) - Only creates wrapper function object
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: ADVANCED PYTHON CONCEPTS                               ║

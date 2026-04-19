@@ -3,6 +3,10 @@
 # Problem: Group Anagrams - Classify words that are anagrams of each other
 # Difficulty: Medium | Frequency: ⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n * k log k) - n words, k avg word length, sorting each word
+# SPACE COMPLEXITY: O(n * k) - Storing n words with avg length k
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: STRING & CHARACTER PROCESSING                          ║

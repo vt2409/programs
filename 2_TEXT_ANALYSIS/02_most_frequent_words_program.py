@@ -3,6 +3,10 @@
 # Problem: Top K Frequent Words - Extract most common words from text
 # Difficulty: Medium | Frequency: ⭐⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n + m log m) - n words processing, m unique words sorting
+# SPACE COMPLEXITY: O(m) - m unique words stored in dictionary
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: TEXT ANALYSIS & WORD PROCESSING                        ║

@@ -3,6 +3,10 @@
 # Problem: String Analysis - Multiple character/string algorithms
 # Difficulty: Easy | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n) for character frequency, O(n^2) for longest substring
+# SPACE COMPLEXITY: O(k) for Counter, O(n) for longest substring tracking
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: STRING & CHARACTER PROCESSING                          ║

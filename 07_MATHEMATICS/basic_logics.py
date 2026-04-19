@@ -4,6 +4,10 @@
 # Problem: Time Conversion - Convert seconds into hours, minutes, and seconds
 # Difficulty: Easy | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(1) - Constant time operations (modulo, division)
+# SPACE COMPLEXITY: O(1) - Only storing tuple of 3 values
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: MATHEMATICS & TIME CONVERSION                          ║

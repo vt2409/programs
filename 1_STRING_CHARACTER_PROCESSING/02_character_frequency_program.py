@@ -3,6 +3,10 @@
 # Problem: Character Frequency - Count and analyze character frequencies
 # Difficulty: Easy | Frequency: ⭐⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n) - Counter traversal + O(n + m log m) for sorting
+# SPACE COMPLEXITY: O(k) - k is number of unique characters (max 26 for ASCII)
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: STRING & CHARACTER PROCESSING                          ║

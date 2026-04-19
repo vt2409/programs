@@ -3,6 +3,10 @@
 # Problem: Maximum Repeating Substring - Find most frequent substrings
 # Difficulty: Medium | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n^2) - Generate all substrings, Counter processes each
+# SPACE COMPLEXITY: O(n^2) - Storing all possible substrings in Counter
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: STRING & CHARACTER PROCESSING                          ║

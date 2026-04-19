@@ -3,6 +3,10 @@
 # Problem: String Algorithms Bundle - Palindrome, flatten list, unique chars
 # Difficulty: Easy | Frequency: ⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n) for most functions, O(n^2) for nested list flatten
+# SPACE COMPLEXITY: O(n) for dictionaries and result lists
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: TEXT ANALYSIS & WORD PROCESSING                        ║

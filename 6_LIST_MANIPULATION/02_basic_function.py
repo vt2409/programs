@@ -1,3 +1,6 @@
+# TIME COMPLEXITY: O(n^2) - Selection sort has nested loops
+# SPACE COMPLEXITY: O(1) - In-place sorting, only constant extra space
+
 """
 Sort the list
 """

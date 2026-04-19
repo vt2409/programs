@@ -3,6 +3,10 @@
 # Problem: Collections Module - Counter and defaultdict utilities
 # Difficulty: Easy | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n) for Counter creation, O(n log n) for sorting
+# SPACE COMPLEXITY: O(n) - Storing all unique elements in Counter/defaultdict
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: DATA STRUCTURES & COLLECTIONS                          ║

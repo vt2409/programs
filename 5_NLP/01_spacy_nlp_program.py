@@ -3,6 +3,10 @@
 # Problem: Natural Language Processing - spaCy NER and POS tagging
 # Difficulty: Hard | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n) - Linear scan for NER/POS tagging on text of length n
+# SPACE COMPLEXITY: O(n) - Storing parsed doc with all tokens and annotations
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: NATURAL LANGUAGE PROCESSING (NLP)                      ║

@@ -3,6 +3,10 @@
 # Problem: Filter and Sort Data - Employee salary filtering and sorting
 # Difficulty: Easy | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n log n) - Filtering O(n) + Sorting O(n log n)
+# SPACE COMPLEXITY: O(n) - Result list storing filtered employees
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: DATA STRUCTURES & COLLECTIONS                          ║

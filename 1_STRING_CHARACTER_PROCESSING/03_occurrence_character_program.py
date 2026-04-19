@@ -3,6 +3,10 @@
 # Problem: First Non-Repeating Character - Find and index first unique char
 # Difficulty: Easy | Frequency: ⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n) - Two passes through string (count then search)
+# SPACE COMPLEXITY: O(k) - k is number of unique characters
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: STRING & CHARACTER PROCESSING                          ║

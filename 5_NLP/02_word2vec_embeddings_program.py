@@ -3,6 +3,10 @@
 # Problem: Word Embeddings - Find similar words using Word2Vec
 # Difficulty: Hard | Frequency: ⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(k log v) - k similar words returned, v vocab size
+# SPACE COMPLEXITY: O(1) - Fixed model size in memory (~1.5GB)
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: NATURAL LANGUAGE PROCESSING (NLP)                      ║

@@ -4,6 +4,10 @@
 # Problem: Two Sum - Find indices of two numbers that add up to target
 # Difficulty: Easy | Frequency: ⭐⭐⭐⭐⭐ (Very Common)
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n) - Single pass through list with hash map lookup O(1)
+# SPACE COMPLEXITY: O(n) - Hash map stores up to n elements
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: LIST MANIPULATION                                 ║

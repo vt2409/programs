@@ -3,6 +3,10 @@
 # Problem: Regular Expressions - Pattern matching and text manipulation
 # Difficulty: Medium | Frequency: ⭐⭐⭐⭐
 # ═══════════════════════════════════════════════════════════════
+#
+# TIME COMPLEXITY: O(n) - Single pass through text for findall/sub operations
+# SPACE COMPLEXITY: O(m) - m matches stored in result list
+# ═══════════════════════════════════════════════════════════════
 
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║  CATEGORY: ADVANCED PYTHON CONCEPTS                               ║
